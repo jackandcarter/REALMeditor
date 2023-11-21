@@ -226,9 +226,7 @@ public class REALMeditorWindow : EditorWindow
 
     private string GenerateScriptContent(ModuleTemplate module)
     {
-        // Implement logic to generate script content based on the selectedModule
-        // This could involve iterating through developer options and generating code accordingly
-        // Example: Generating a simple script with module name and developer options
+      
         string scriptContent = $"public class {module.name}Script : MonoBehaviour\n" +
                                "{\n" +
                                "\t// Add your generated code here\n";

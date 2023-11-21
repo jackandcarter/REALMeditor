@@ -3,7 +3,7 @@ Development for REALMeditor, a Unity Game Engine tool to help manage and create 
 <BR><BR>
 REALMeditor is a tool that can help create prefabs and assets based on the UI options you created using MODULEditor.<BR>
 <BR>
-MODULEditor is a sub editor for the creation of REALMeditor's UI and developer options. REALMeditor then loads your created modules and displays them in an organized fasion.
+MODULEditor is a sub editor for the creation of REALMeditor's UI and developer options. REALMeditor then loads your created modules and displays them in an organized fashion.
 <BR><BR>
 An example would be creating an NPC maker within REALMeditor, this can be achieved by creating the Module for the NPC maker using MODULEditor.<BR>
 <BR>
